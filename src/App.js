@@ -238,6 +238,7 @@ function App() {
                   <th>Name</th>
                   <th>Roll No</th>
                   <th>Marks</th>
+                  <th>Actions</th>
                 </tr>
               </thead>
               <tbody>
