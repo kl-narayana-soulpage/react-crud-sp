@@ -132,7 +132,7 @@ function App() {
               <InputGroup className="mb-3">
                 <InputGroup.Text id="basic-addon1">@</InputGroup.Text>
                 <Form.Control
-                  placeholder="Student Name"
+                  placeholder="Student Name new"
                   aria-label="Username"
                   aria-describedby="basic-addon1"
                   value={name}
